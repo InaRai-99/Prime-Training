@@ -1,7 +1,7 @@
-for i in range (1,5):
+for i in range (2,10):
     print (i)
 print ("-------------")
-for i in range (1,8,2):
+for i in range (2,6,8):
     print (i)
 print ("----------")
 for i in range (10,0,-1):

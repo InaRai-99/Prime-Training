@@ -6,5 +6,5 @@ c=a-b
 print("difference is", c)
 
 username = "Ina"
-print (a)
+#print (a)
 print("Welcome", username)

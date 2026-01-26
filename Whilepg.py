@@ -1,6 +1,6 @@
-n =1 
-while n<6:
+n = 10 
+while n<20:
     print(n)
-    n= n+1
+    n= n+5
 print("out of loop")
 
