@@ -1,4 +1,6 @@
-temperatures = [4, -2, 5, -5, 0, 3, -1, -3]
+# Check if temperatures are below freezing
+
+temperatures = [8, -3, 7, -3, 0, 13, -6, -10]
 negative_count = 0
 
 for temp in temperatures:
